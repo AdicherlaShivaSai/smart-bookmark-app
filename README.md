@@ -3,10 +3,10 @@ A simple, secure bookmark manager built with **Next.js App Router**, **Supabase*
 Users can sign in with Google, manage their private bookmarks, and see real-time updates across tabs.
 
 ### 🔗 Live Demo
-👉 **Vercel URL** :
+👉 **Vercel URL** : https://smart-bookmark-app-13e5.vercel.app
 
 ### 📦 GitHub Repository
-👉 **GitHub** : 
+👉 **GitHub** : https://github.com/AdicherlaShivaSai/smart-bookmark-app
 
 ## 🚀 Features
 - Google authentication using **Supabase Auth** (OAuth only)
